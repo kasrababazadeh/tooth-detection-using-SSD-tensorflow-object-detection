@@ -1,4 +1,4 @@
-# Tooth Detection using TensorFlow Object Detection API
+# Tooth Detection using TensorFlow Object Detection (SSD)
 
 ## Overview
 
